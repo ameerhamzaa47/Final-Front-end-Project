@@ -1,0 +1,604 @@
+.hamza{
+display: inline-block;
+width: 30%;
+height: auto;
+}
+@media screen and (max-width:600px) {
+    .hamza{
+        display: inline-block;
+        width: 100%;
+        height: auto;
+        margin-top: 5%;
+        display: none;
+        } 
+}
+#ahmad{
+    position: relative;
+    bottom: 20%;
+    left: 5%;
+}
+@media screen and (max-width:600px) {
+    #ahmad{
+        position: relative;
+        bottom: 0%;
+        left: 0%;
+        }
+}
+#ahmad1{
+    position: relative;
+    bottom: 20%;
+    left: 2%;
+}
+@media screen and (max-width:600px) {
+    #ahmad1{
+        position: relative;
+        bottom: 0%;
+        left: 0%;
+    }
+}
+#ahmad2{
+    position: relative;
+    bottom: 500px;
+    left: 20%;
+    font-size: x-large;
+    transition: color 2s;
+}
+#ahmad2:hover{
+    width: auto;
+    color: red;
+}
+@media screen and (max-width:600px) {
+    #ahmad2{
+        position: relative;
+        bottom: 230px;
+        left: 3%;
+        font-size: 100%;
+    }
+}
+.hamza1{
+    position: relative;
+    bottom: 500px;
+    left: 52%;
+    font-size: x-large;
+    transition: color 2s;
+}
+.hamza1:hover{
+    width: auto;
+    color: red;
+}
+@media screen and (max-width:600px) {
+    .hamza1{
+        position: relative;
+        bottom: 230px;
+        left: 40%;
+        font-size: 80%;
+    }
+}
+.hamza2{
+    background-color: black;
+    color: white;
+    font-size: 100%;
+    transition: background-color 1s, font-size 1s ;
+}
+.hamza2:hover{
+    background-color: green;
+    color: white;
+}
+#ahmad3{
+    width: 100%;
+    height: 100%;
+}
+.hamza3{
+    display: inline-block;
+    border: 3px solid darksalmon;
+    width: 20%;
+    margin-left: 4%;
+    height: 400px;
+}
+.hamza3:hover{
+    transform: rotate(-3deg);
+}
+@media screen and (max-width:600px) {
+    .hamza3{
+        display: inline-block;
+        border: 3px solid black;
+        width: 70%;
+        margin-left: 15%;
+        margin-top: 10%;
+        height: 200px;
+    }
+}
+.hamza4{
+    display: inline-block;
+    border: 3px solid white;
+    width: 40%;
+    height: 300px;
+    background-color: wheat;
+
+}
+@media screen and (max-width:600px) {
+    .hamza4{
+        display: inline-block;
+        border: 3px solid white;
+        width: 80%;
+        margin-top: 10%;
+        margin-left: 10%;
+        background-color: wheat;
+    
+    }
+}
+.hamza5{
+    display: inline-block;
+}
+@media screen and (max-width:600px) {
+    .hamza5{
+        display: inline-block;
+        width: auto;
+        margin-top: 5%;
+        padding: 5%;
+    }
+}
+#ahmad4{
+    color: black;
+    margin-left: 35%; 
+    margin-top: 12%;
+    transition: color 0.5s, font-size 2s;
+}
+#ahmad4:hover{
+    color: brown;
+    font-size: larger;
+}
+@media screen and (max-width:600px) {
+    #ahmad4{
+        margin-left: 16%; 
+        position: relative; 
+        top: 50px;
+        transition: color 0.5s, font-size 2s;
+
+    }
+}
+@media screen and (max-width:600px) {
+    #ahmad4:hover{
+        color: brown;
+        font-size: larger;
+    }
+}
+#ahmad5{
+    color: black;
+    margin-left: 38%; 
+    position: relative; 
+    bottom: 10px;
+    transition: color 0.5s;
+}
+#ahmad5:hover{
+    color: red;
+}
+@media screen and (max-width:600px) {
+    #ahmad5{
+        margin-left: 27%;
+        position: relative; 
+        bottom: 0px;
+    }
+}
+@media screen and (max-width:600px) {
+    #ahmad5:hover{
+        color: brown;
+    }
+}
+.hamza6{
+    display: inline-block;
+    margin-left: 3%;
+    width: 21%;
+}
+@media screen and (max-width:600px) {
+    .hamza6{
+        display: inline-block;
+        margin-left: 25%;
+        margin-top: 10%;
+        width: 100%;
+    }
+}
+#ahmad6{
+    background-color: wheat; 
+    height: 950px;
+    margin-top: 0%;
+    margin-bottom: 5%;
+}
+@media screen and (max-width:600px) {
+    #ahmad6{
+        background-color: wheat; 
+        height: 1800px;
+        margin-top: 10%;
+        margin-bottom: 5%;
+    }
+}
+#ahmad7{
+    margin-top: 10%;
+    background-color: lightgray;
+    width: 100%;
+    height: 750px;
+}
+@media screen and (max-width:600px) {
+    #ahmad7{
+        margin-top: 10%;
+        background-color: lightgray;
+        width: 100%;
+        height: 630px;
+    }
+}
+#ahmad8{
+    display: inline-block;
+    width: 35%;
+    margin-left: 5%;
+    padding: 5%;
+    box-sizing: border-box;
+}
+@media screen and (max-width:600px) {
+    #ahmad8{
+        display:none;
+    }
+}
+#ahmad9{
+    display: inline-block;
+    width: 45%;
+    margin-left: 10%;
+}
+@media screen and (max-width:600px) {
+    #ahmad9{
+        width: 95%;
+        padding: 3%;
+        margin-left: 3%;
+    }
+}
+#ahmad10{
+    margin-left: 38%;
+    margin-top: 10%;
+    transition: color 1s, font-size 2s;
+}
+#ahmad10:hover{
+    color: red;
+    font-size: large;
+}
+@media screen and (max-width:600px) {
+    #ahmad10{
+        margin-left: 20%;
+        margin-top: 10%;
+        transition: color 1s, font-size 2s;
+    }
+}
+.hamza7{
+    display: inline-block;
+border: 3px solid yellowgreen;
+margin-left: 6%;
+width: 25%;
+padding: 1%;
+}
+@media screen and (max-width:600px) {
+    .hamza7{
+        display: inline-block;
+    border: 2px solid rebeccapurple;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    padding: 5%;
+    }
+}
+.hamza8{
+    display: inline-block;
+    border: 1px solid yellowgreen;
+    width: 20%;
+    margin-left: 4%;
+    margin-top: 3%;
+    background-color: whitesmoke;
+    padding: 1%;
+}
+@media screen and (max-width:600px) {
+    .hamza8{
+        display: inline-block;
+        border: 1px solid yellowgreen;
+        width: 80%;
+        margin-left: 4%;
+        margin-top: 12%;
+        background-color: whitesmoke;
+        padding: 2%;
+        font-size: large;
+    }
+}
+.hamza9{
+    display: inline-block;
+    color: white;
+    width: 20%;
+    margin-top: 1%;
+    margin-left: 4%;
+    padding: 1%;
+}
+@media screen and (max-width:600px) {
+    .hamza9{
+        display: inline-block;
+        width: 90%;
+        margin-left: 3%;
+        margin-top: 10%;
+        padding: 1%;
+    }
+}
+.hamza10{
+    color: white;
+    transition: all 1s;
+}
+.hamza10:hover{
+    color: red;
+    margin-left: 10%;
+}
+#ahmad11{
+    margin-left: 90%;
+    font-size: xx-large;
+    color: black;
+    animation: sample 1.5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+@keyframes sample {
+    from {color: wheat; margin-bottom: 5%; position: relative; top: 30px;}
+    to {color: yellow; margin-bottom: 5%; position: relative; top: 5px;}
+}
+@media screen and (max-width:600px) {
+    @keyframes sample {
+        from {color: wheat; margin-bottom: 5%; position: relative; top: 30px;}
+        to {color: yellow; margin-bottom: 5%; position: relative; top: 15px;}
+    }
+}
+
+#ahmad12{
+    font-size: 70px;
+    color: green;
+    position: fixed;
+    left: 92%;
+    top: 75%;
+    text-align: center;
+    bottom: 300px;
+    z-index: 1;
+    animation: Whatsapp 1.5s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+}
+@keyframes Whatsapp {
+    0% {color: black; margin-right: 20%;}
+    50% {color: green; margin-left: 2%;}
+}
+@media screen and (max-width:600px) {
+    #ahmad12{
+        font-size: 50px;
+        color: green;
+        position: fixed;
+        left: 90%;
+        bottom: 300px;
+        z-index: 1;
+    }
+}
+#ahmad13{
+    margin-top: 2%;
+    background-color: whitesmoke;
+    text-align: center;
+    height: 90px;
+}
+.hamza11{
+    display: inline-block;
+    width: 27%;
+    margin: 3%;
+}
+@media screen and (max-width:600px) {
+    .hamza11{
+        display: inline-block;
+        width: 70%;
+        margin: 15%;
+    }
+}
+#ahmad14{
+    display: inline-block;
+    border: 10px solid whitesmoke;
+    position: relative;
+    bottom: 190%;
+    width: 20%;
+    height: 1500px;
+    margin-left: 2%;
+    padding: 1%;
+}
+@media screen and (max-width:600px) {
+    #ahmad14{
+        display: inline-block;
+        border: 10px solid whitesmoke;
+        position: relative;
+        bottom: 385%;
+        width: 25%;
+        height: 1750px;
+        margin-left: 2%;
+        padding: 1%;
+    }
+}
+#ahmad15{
+    display: inline-block;
+    width: 70%;
+    margin-left: 2%;
+    margin-top: 5%;
+    padding: 1%;
+}
+.hamza12{
+    display: inline-block;
+    width: 32%;
+    margin: 3%;
+    margin-left: 10%;
+}
+@media screen and (max-width:600px) {
+    .hamza12{
+        display: inline-block;
+        width: 50%;
+        margin: 3%;
+        margin-left: 10%;
+    }
+}
+.hamza13:hover{
+background-color: rgba(0, 0, 0, 0.767);
+border-radius: 50%;
+}
+#ahmad16{
+    margin-top: 5%;
+    height: 550px;
+}
+@media screen and (max-width:600px) {
+    #ahmad16{
+        margin-top: 5%;
+        height: 850px;
+    }
+}
+#ahmad17{
+    margin-top: 5%;
+    height: 710px;
+}
+@media screen and (max-width:600px) {
+    #ahmad17{
+        margin-top: 5%;
+        height: 900px;
+    }
+}
+#ahmad18{
+    margin-top: 5%;
+    height: 650px;
+}
+@media screen and (max-width:600px) {
+    #ahmad18{
+        margin-top: 5%;
+        height: 900px;
+    }
+}
+#ahmad19{
+    margin-top: 5%;
+    height: 780px;
+}
+@media screen and (max-width:600px) {
+    #ahmad19{
+        margin-top: 5%;
+        height: 1030px;
+    }
+}
+.hamza14{
+    display: inline-block;
+    width: 40%;
+    margin-left: 7%;
+    background-color: whitesmoke;
+    padding: 1%;
+}
+@media screen and (max-width:600px) {
+    .hamza14{
+        width: 90%;
+        margin-left: 2%;
+        background-color: whitesmoke;
+        padding: 2%;
+    }
+}
+#ahmad20{
+    margin-left: 30%;
+    margin-top: 5%;
+}
+@media screen and (max-width:600px) {
+    #ahmad20{
+        margin-left: 0%;
+        margin-top: 45%;
+    }
+}
+.hamza16{
+    display: inline-block;
+    width: 30%;
+    margin-top: 3%;
+    margin-left: 3%;
+    text-align: center;
+}
+@media screen and (max-width:600px) {
+    .hamza16{
+        width: 90%;
+        margin-top: 3%;
+        margin-left: 6%;
+        text-align: center;
+    }
+}
+.hamza17{
+    display: inline-block;
+    width: 45%;
+    margin-top: 10%;
+    margin-left: 4%;
+    padding: 1%;
+    background-color: whitesmoke;
+    border: 2px solid wheat;
+}
+@media screen and (max-width:600px) {
+    .hamza17{
+        width: 90%;
+        margin-top: 10%;
+        margin-left: 4%;
+        padding: 2%;
+        background-color: whitesmoke;
+        border: 2px solid wheat;
+    }
+}
+.hamza18{
+    width: 80%;
+    margin: 2%;
+    padding: 1%;
+}
+.hamza19{
+    display: inline-block;
+    width: 40%;
+    margin: 4%;
+}
+@media screen and (max-width:600px) {
+    .hamza19{
+        display: inline-block;
+        width: 90%;
+        margin: 4%;
+    }
+}
+.hamza20{
+    display: inline-block;
+    background-color: aliceblue;
+    border: 1px solid tan;
+    width: 15%;
+    margin: 2%;
+    margin-top: 3%;
+    margin-left: 6%;
+    text-align: center;
+}
+@media screen and (max-width:600px) {
+    .hamza20{
+        display: inline-block;
+        background-color: aliceblue;
+        border: 1px solid tan;
+        width: 35%;
+        margin-top: 15%;
+        display: inline-block;
+        text-align: center;
+    }
+}
+.hamza21{
+    margin-left: 5%;
+    width: 50%;
+}
+@media screen and (max-width:600px) {
+    .hamza21{
+        margin-left: 5%;
+        width: 90%;
+    }
+}
+.hamza22{
+    margin-left: 5%;
+    border: 2px solid wheat;
+    background-color: whitesmoke;
+    padding: 1%;
+    width: 90%;
+}
+.hamza23{
+    margin-left: 89%;
+}
+@media screen and (max-width:600px) {
+    .hamza23{
+        margin-left: 70%;
+    }
+}
